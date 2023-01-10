@@ -5,3 +5,18 @@
 ## How to install
 
 Install with the Unity Package Manager: https://github.com/Ra-Coding/unity-scriptableobject-variables.git#upm 
+
+## Built-in Variables
+
+- bool
+- byte
+- short
+- int
+- long
+- char
+- string
+- Vector2
+- Vector3
+- GameObject
+- Transform
+- Color
