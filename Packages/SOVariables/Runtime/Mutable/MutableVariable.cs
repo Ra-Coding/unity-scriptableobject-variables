@@ -5,7 +5,7 @@ namespace RaCoding.Variables
     public class MutableVariable<T> : ScriptableObject, IVariable<T>
     {
         [SerializeField] private T value;
-        [SerializeField] private T resetValue;
+        [SerializeField, ReadOnlyInInspector] private T resetValue;
 
         public T Value 
         {

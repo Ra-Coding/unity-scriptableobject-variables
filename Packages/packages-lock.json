@@ -155,7 +155,7 @@
       },
       "url": "https://packages.unity.com"
     },
-    "de.ra-coding.de.ra-coding.variables": {
+    "de.ra-coding.variables": {
       "version": "file:Variables",
       "depth": 0,
       "source": "embedded",
