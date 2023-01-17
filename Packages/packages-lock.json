@@ -156,7 +156,7 @@
       "url": "https://packages.unity.com"
     },
     "de.ra-coding.variables": {
-      "version": "file:Variables",
+      "version": "file:SOVariables",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
