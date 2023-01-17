@@ -1,0 +1,19 @@
+{
+  "name": "de.ra-coding.variables",
+  "version": "1.0.0",
+  "displayName": "SO Variables",
+  "description": "This package includes ScriptableObject immutable and mutable variables.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/Ra-Coding/unity-scriptableobject-variables",
+  "changelogUrl": "https://github.com/Ra-Coding/unity-scriptableobject-variables",
+  "licensesUrl": "https://github.com/Ra-Coding/unity-scriptableobject-variables/blob/main/LICENSE",
+  "keywords": [
+    "ScriptableObject",
+    "Variables"
+  ],
+  "author": {
+    "name": "Ra-Coding",
+    "url": "https://github.com/Ra-Coding"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "de.ra-coding.variables.editor",
+    "rootNamespace": "RaCoding.Variables",
+    "references": [
+        "GUID:b251d58a93860814b91de64bdf6d0c7b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
