@@ -22,4 +22,5 @@ Install with the Unity Package Manager: https://github.com/Ra-Coding/unity-scrip
 - Vector4
 - GameObject
 - Transform
+- Quaternion
 - Color
