@@ -1,21 +1,7 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 namespace RaCoding.Variables
 {
-    public class QuaternionImmutableVariable : MonoBehaviour
-    {
-        // Start is called before the first frame update
-        void Start()
-        {
-        
-        }
-
-        // Update is called once per frame
-        void Update()
-        {
-        
-        }
-    }
+    [CreateAssetMenu(fileName = "QuaternionImmutableVariable", menuName = "RaCoding/Variables/Immutable/Create new immutable quaternion variable")]
+    public class QuaternionImmutableVariable : ImmutableVariable<Quaternion> { }
 }
