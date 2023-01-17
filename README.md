@@ -17,6 +17,7 @@ Install with the Unity Package Manager: https://github.com/Ra-Coding/unity-scrip
 - string
 - Vector2
 - Vector3
+- Vector4
 - GameObject
 - Transform
 - Color
