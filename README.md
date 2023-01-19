@@ -14,6 +14,7 @@ Install with the Unity Package Manager: https://github.com/Ra-Coding/unity-scrip
 - short
 - ushort
 - int
+- uint
 - long
 - char
 - string
