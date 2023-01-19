@@ -12,6 +12,7 @@ Install with the Unity Package Manager: https://github.com/Ra-Coding/unity-scrip
 - byte
 - sbyte
 - short
+- ushort
 - int
 - long
 - char
