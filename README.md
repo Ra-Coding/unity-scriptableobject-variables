@@ -10,6 +10,7 @@ Install with the Unity Package Manager: https://github.com/Ra-Coding/unity-scrip
 
 - bool
 - byte
+- sbyte
 - short
 - int
 - long
