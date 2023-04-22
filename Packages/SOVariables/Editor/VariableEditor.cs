@@ -26,7 +26,11 @@ namespace RaCoding.Variables
             }
             else
             {
-                AssignResetValue();
+                // only assign the reset value if application is not playing -> else code in ScriptableObjects that change the value property will persist because they seem to call OnInspectorGUI
+                if (!EditorApplication.isPlaying)
+                {
+                    AssignResetValue();
+                }
             }
 
             serializedObject.ApplyModifiedProperties();
