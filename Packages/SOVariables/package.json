@@ -1,6 +1,6 @@
 {
   "name": "de.ra-coding.variables",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "displayName": "SO Variables",
   "description": "This package includes ScriptableObject immutable and mutable variables.",
   "unity": "2019.1",
