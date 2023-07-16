@@ -1,5 +1,3 @@
-using UnityEngine;
-
 namespace RaCoding.Variables
 {
     public interface IVariable<T>
