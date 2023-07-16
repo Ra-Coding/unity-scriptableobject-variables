@@ -29,3 +29,4 @@ Install with the Unity Package Manager: https://github.com/Ra-Coding/unity-scrip
 - Transform
 - Quaternion
 - Color
+- Sprite
